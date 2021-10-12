@@ -69,7 +69,7 @@ namespace System.Text.Json
             Add(JsonMetadataServices.Int32Converter);
             Add(JsonMetadataServices.Int64Converter);
             Add(JsonMetadataServices.JsonElementConverter);
-            Add(JsonMetadataServices.DocumentConverter);
+            Add(JsonMetadataServices.JsonDocumentConverter);
             Add(JsonMetadataServices.ObjectConverter);
             Add(JsonMetadataServices.SByteConverter);
             Add(JsonMetadataServices.SingleConverter);
